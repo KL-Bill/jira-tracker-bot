@@ -1,0 +1,5 @@
+{
+  "_comment": "Right-click a Discord user (Developer Mode must be on in Settings > Advanced) and 'Copy User ID' for the key. Value is the exact email that person logs into Jira with.",
+
+  "REPLACE_WITH_YOUR_DISCORD_USER_ID": "you@example.com"
+}
